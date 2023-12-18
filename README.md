@@ -46,11 +46,11 @@ and(carry,a,b);
 endmodule 
 
 # HALF ADDER:
-# RTL realization:
+ RTL realization:
 ![Screenshot 2023-12-18 153150](https://github.com/Hafeezuldeen/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144979314/9aca016b-7128-4d2e-a901-ddaac9a35bec)
-# Truth table:
+ Truth table:
 ![290492322-c3fca81e-ddc4-487a-ac37-ee5d4898b01a](https://github.com/Hafeezuldeen/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144979314/11615dbf-2ba8-4e05-9fd9-334496a9e29f)
-#  Timing diagram:
+Timing diagram:
 ![290495747-7a6fa4fe-88d3-4f7a-8706-8c7fc442d5db](https://github.com/Hafeezuldeen/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144979314/99b728ac-2283-46ac-9177-ea99c810fa18)
 
 
@@ -64,11 +64,11 @@ xor(sum,a,b,c);
 assign carry=a&b|b&c|a&c;
 endmodule
 ```
-# RTL realization:
+ RTL realization:
 ![290500222-9b634b68-9d76-403f-b727-8dc084976d01](https://github.com/Hafeezuldeen/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144979314/02586837-ef74-4e96-a02d-4600a635b24b)
-# TRUTH TABLE :
+ TRUTH TABLE :
 ![290501215-e32af450-ad8e-4072-8f86-69afce03dbfd](https://github.com/Hafeezuldeen/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144979314/6f9b5471-6948-4c7f-9864-9075adaf1c7b)
-# timing diagram:
+ Timing diagram:
 ![290517830-fcbe9362-5ae1-464b-adbb-b6cef9c68b10](https://github.com/Hafeezuldeen/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144979314/7c3a3c8d-f5d9-43ee-adb5-5b9ce2561be2)
 
-### Result:Thus the given logic functions are implemented and their operations are verified using verilog programming.
+# Result:Thus the given logic functions are implemented and their operations are verified using verilog programming.
