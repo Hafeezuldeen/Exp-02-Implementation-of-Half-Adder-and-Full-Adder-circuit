@@ -1,6 +1,6 @@
 # NAME: S. HAFEEZUL DEEN
 # REFERENCE NO.: 23008281
-# Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit
+# Exp-03-Implementation-of-Half-Adder-and-Full-Adder-circuit
 
 # Implementation-of-Half-Adder-and-Full-Adder-circuit
 ### AIM:
