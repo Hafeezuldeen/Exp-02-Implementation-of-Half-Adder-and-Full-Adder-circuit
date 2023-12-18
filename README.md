@@ -73,4 +73,5 @@ endmodule
 # Timing diagram:
 ![290517830-fcbe9362-5ae1-464b-adbb-b6cef9c68b10](https://github.com/Hafeezuldeen/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144979314/7c3a3c8d-f5d9-43ee-adb5-5b9ce2561be2)
 
-# Result:Thus the given logic functions are implemented and their operations are verified using verilog programming.
+# Result: 
+Thus the given logic functions are implemented and their operations are verified using verilog programming.
